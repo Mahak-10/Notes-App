@@ -45,7 +45,6 @@ notes-app/
 │   ├─ pom.xml
 │   └─ Dockerfile
 
-|
-|
+
 
 
