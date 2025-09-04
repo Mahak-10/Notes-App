@@ -34,17 +34,14 @@ Tech Stack
 Structure
 
 notes-app/
-│
-├─ user-service/        # User microservice
-│   ├─ src/
-│   ├─ pom.xml
-│   └─ Dockerfile
-│
-├─ notes-service/       # Notes microservice
-│   ├─ src/
-│   ├─ pom.xml
-│   └─ Dockerfile
+  user-service/        # User microservice
+    src/
+    pom.xml
+    Dockerfile
 
-
+  notes-service/       # Notes microservice
+    src/
+    pom.xml
+    Dockerfile
 
 
